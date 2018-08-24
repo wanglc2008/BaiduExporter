@@ -42,3 +42,7 @@ BaiduExporter is free software: you can redistribute it and/or modify it under t
 BaiduExporter is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with BaiduExporter.  If not, see <http://www.gnu.org/licenses/>.
+
+可以了，百度查了。
+首先，把你想要安装的Chrome浏览器的扩展程序（后缀名为.crx的文件）下载到本地，然后修改文件后缀名为.zip ，再用压缩软件解压该文件，会得到一个和原文件文件名相同的文件夹。这时候打开Chrome的扩展程序管理页面，勾选“开发者模式”，点击“加载已解压的扩展程序”，选择刚刚解压的那个文件夹，点击“确定”即可。
+但我不知道原来其他的浏览器也可以装，网上都说要用Chrome浏览器和yaaw
